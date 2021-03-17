@@ -34,9 +34,9 @@
   "author": "xupeng <xupeng_zzz@163.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/cmss-compressing/issues"
+    "url": "https://github.com/junhun-code/cmss-compressing/issues"
   },
-  "homepage": "https://github.com/cmss-compressing#readme",
+  "homepage": "https://github.com/junhun-code/cmss-compressing#readme",
   "dependencies": {
     "flushwritable": "^1.0.0",
     "get-ready": "^1.0.0",
